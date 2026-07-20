@@ -1,5 +1,5 @@
 Analytical code for Cardiometabolic Multimorbidity Aggregation Patterns, Network Mechanisms, and Disease Burden Projections to 2040
-This repository contains the R code supplied for the accepted manuscript. The scripts have been organized and named for public archiving. No analytical statements, functions, model settings, thresholds, seeds, or output specifications were removed or revised. The only changes inside the R scripts are file-path replacements. All input and output paths now point to D:/GBD_data.
+This repository contains the R code supplied for the  manuscript.
 
 ## Repository structure
 
