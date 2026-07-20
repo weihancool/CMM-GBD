@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived software release and the associated article."
+type: software
+title: "Analytical code for Cardiometabolic Multimorbidity Aggregation Patterns, Network Mechanisms, and Disease Burden Projections to 2040"
+version: 1.0.0
+authors:
+  - given-names: "Wei"
+    family-names: "Han"
+  - given-names: "Yaoda"
+    family-names: "Hu"
+  - given-names: "Xuanqi"
+    family-names: "An"
+  - given-names: "Luwen"
+    family-names: "Zhang"
+  - given-names: "Fang"
+    family-names: "Xue"
+  - given-names: "Jing"
+    family-names: "Zhao"
+  - given-names: "Zixing"
+    family-names: "Wang"
+  - given-names: "Wentao"
+    family-names: "Gu"
+  - given-names: "Peng"
+    family-names: "Wu"
+  - given-names: "Huaguang"
+    family-names: "Zheng"
+  - given-names: "Cuihong"
+    family-names: "Yang"
+  - given-names: "Yubing"
+    family-names: "Shen"
+  - given-names: "Yali"
+    family-names: "Chen"
+  - given-names: "Wangyue"
+    family-names: "Chen"
+  - given-names: "Xiaobo"
+    family-names: "Guo"
+  - given-names: "Jin"
+    family-names: "Du"
+  - given-names: "Chengyu"
+    family-names: "Jiang"
+  - given-names: "Jingmei"
+    family-names: "Jiang"
+keywords:
+  - cardiometabolic multimorbidity
+  - Global Burden of Disease
+  - Bayesian network
+  - SHAP
+  - trend projection
+abstract: "R code for country-level cardiometabolic multimorbidity pattern analysis, risk-network modelling, prediction comparison, and burden projection to 2040."
